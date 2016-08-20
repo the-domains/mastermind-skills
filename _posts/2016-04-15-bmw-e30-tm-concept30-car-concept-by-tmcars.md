@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T12:18:44.813Z'
+datePublished: '2016-08-20T12:25:20.640Z'
 sourcePath: _posts/2016-04-15-bmw-e30-tm-concept30-car-concept-by-tmcars.md
 inFeed: true
 isBasedOnUrl: 'http://techcracks.com/2012/10/bmw-e30-tm-concept30-car-concept-by-tmcars/'
@@ -21,7 +21,7 @@ author:
     url: 'http://techcracks.com/author/TechCracks/'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T12:18:44.354Z'
+dateModified: '2016-08-20T12:25:20.529Z'
 title: BMW E30 TM Concept30 Car Concept by TMcars
 app_links: []
 publisher:
