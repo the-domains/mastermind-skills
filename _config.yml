@@ -12,3 +12,7 @@ color:
     - '#C2E5E3'
     - '#8ED0CF'
 name: MasterMind Skills
+navigation:
+  - name: 'Rising dawn: Rolls-Royce debut handsome new soft-top.'
+    id: e32733b7-267d-4ac1-af1e-4e41b8afd693
+    type: content
