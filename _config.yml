@@ -1,4 +1,3 @@
-layout_spectrum: 0.7530174981802702
 typography_spectrum: 0.7436415788251907
 color:
   brandStrength: 0.9837976349517703
@@ -11,8 +10,10 @@ color:
     - '#5EB38C'
     - '#C2E5E3'
     - '#8ED0CF'
+layout_spectrum: 0.7530174981802702
 name: MasterMind Skills
 navigation:
   - name: 'Rising dawn: Rolls-Royce debut handsome new soft-top.'
     id: e32733b7-267d-4ac1-af1e-4e41b8afd693
     type: content
+title: MasterMind Skills
