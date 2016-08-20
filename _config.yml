@@ -1,0 +1,14 @@
+layout_spectrum: 0.7530174981802702
+typography_spectrum: 0.7436415788251907
+color:
+  brandStrength: 0.9837976349517703
+  lightness: 0.03143166471272707
+  saturation: 0.7344425509218127
+  rhythmicContrast: 0.890364229446277
+  brandColors:
+    - '#FFFFFF'
+    - '#00848D'
+    - '#5EB38C'
+    - '#C2E5E3'
+    - '#8ED0CF'
+name: MasterMind Skills
